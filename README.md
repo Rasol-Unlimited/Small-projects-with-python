@@ -1,5 +1,7 @@
+![Project Python](https://github.com/Rasol-Unlimited/Small-projects-with-python/assets/62307687/6dbbbe36-2a67-4008-b188-5498854400ec)
 
 # Small-projects-with-Python
+
 **Small projects done for Sahand University of Technology (Tabriz).**
 
 - [Calculating the sum of two numbers with user input](https://github.com/Rasol-Unlimited/Small-projects-with-python/blob/main/Part1.py)
